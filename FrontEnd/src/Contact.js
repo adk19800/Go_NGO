@@ -9,10 +9,10 @@ class Contact extends Component{
   <form id="contact" action="" method="post">
 
     <fieldset>
-      <input placeholder="Your name" type="text" tabindex="1" required autofocus></input>
+      <input placeholder="Your name(Necessary)" type="text" tabindex="1" required autofocus></input>
     </fieldset>
     <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required></input>
+      <input placeholder="Your Email Address(Necessary)" type="email" tabindex="2" required></input>
     </fieldset>
     <fieldset>
       <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required></input>
